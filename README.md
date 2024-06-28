@@ -1,4 +1,4 @@
-
+![logo](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)
 <h1 align="center">Hi 👋, I'm Ankita Marik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
