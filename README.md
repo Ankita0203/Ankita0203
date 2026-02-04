@@ -8,11 +8,11 @@ I am a passionate Frontend Developer focused on building responsive, user-friend
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita0203&label=Profile%20views&color=0e75b6&style=flat" alt="ankita0203" /> </p>
 
-- 🌱 I’m Currently Working on **Strengthening JavaScript & React fundamentals
+- 🌱 I’m Currently Working on *Strengthening JavaScript & React fundamentals
 
-Building more real‑world frontend projects
+*Building more real‑world frontend projects
 
-Improving GitHub documentation & code quality**
+*Improving GitHub documentation & code quality
 
 - 📫 How to reach me **ankitamarik05@gmail.com**
 
