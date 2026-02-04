@@ -1,6 +1,8 @@
 ![logo](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)
 <h1 align="center">Hi 👋, I'm Ankita Marik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend Developer | B.Tech CSE
+
+I am a passionate Frontend Developer focused on building responsive, user-friendly web applications using modern web technologies. I enjoy turning ideas into clean, functional interfaces and continuously improving my problem‑solving skills through real‑world projects.</h3>
 
 <img align="right" alt="coding" Width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif">
 
